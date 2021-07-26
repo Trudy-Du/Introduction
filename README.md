@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trudy-Du
+- 👋 Hi, I’m Trudy Du
 - 👀 I’m interested in reading, gardening and sports.
 - 🌱 I’m currently learning Data analytics in Durham College.
 - 💞️ I’m looking to collaborate on data related project.
